@@ -31,3 +31,8 @@ El proyecto usa Git para registrar cambios y GitHub como repositorio remoto.
 **¿Por qué Git es crítico en proyectos colaborativos?** Porque permite que varias personas trabajen sobre un mismo proyecto, registren quién hizo cada cambio y mantengan un historial de versiones.
 
 **¿Qué problemas evita?** Evita perder cambios, sobrescribir accidentalmente el trabajo de otros y tener múltiples copias desordenadas del mismo proyecto. También permite recuperar versiones anteriores.
+## Avances del proyecto
+
+- Se creó el repositorio en GitHub.
+- Se agregó la página inicial.
+- Se documentó el proyecto.
